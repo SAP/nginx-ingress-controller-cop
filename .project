@@ -1,0 +1,19 @@
+admissionWebhookRuntimeVersion: v0.1.0
+codeGeneratorVersion: v0.28.1
+controllerRuntimeVersion: v0.16.0
+controllerToolsVersion: v0.13.0
+envtestKubernetesVersion: 1.27.1
+goModule: github.com/sap/nginx-ingress-controller-cop
+goVersion: "1.21"
+groupName: operator.kyma-project.io
+groupVersion: v1alpha1
+image: nginx-ingress-controller-cop:latest
+kind: NginxIngressController
+kubernetesVersion: v0.28.1
+mutatingWebhookEnabled: false
+operatorName: nginx-ingress-controller-cop.cs.sap.com
+owner: SAP SE or an SAP affiliate company and nginx-ingress-controller-cop contributors
+resource: nginxingresscontrollers
+spdxLicenseHeaders: true
+validatingWebhookEnabled: false
+version: v0.1.9

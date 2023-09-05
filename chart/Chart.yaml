@@ -1,0 +1,6 @@
+apiVersion: v2
+name: nginx-ingress-controller-cop
+description: A Helm chart for https://github.com/sap/nginx-ingress-controller-cop
+type: application
+version: 0.1.0
+appVersion: v0.1.0
