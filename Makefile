@@ -124,3 +124,10 @@ envtest: setup-envtest
 	chmod -R u+w $$ENVTESTDIR ;\
 	rm -f $(LOCALBIN)/k8s/current ;\
 	ln -s $$ENVTESTDIR $(LOCALBIN)/k8s/current
+
+.PHONY: update-content
+update-content: ## Update external resources used by this repository.
+	rm -rf pkg/operator/data/charts
+	mkdir -p pkg/operator/data/charts
+	helm fetch --repo https://kubernetes.github.io/ingress-nginx ingress-nginx --untar --untardir pkg/operator/data/charts
+	rm -f pkg/operator/data/charts/*/*.tgz
