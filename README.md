@@ -10,7 +10,7 @@ After installing this component operator into a Kubernetes cluster, nginx ingres
 
 ```yaml
 apiVersion: operator.kyma-project.io/v1alpha1
-kind: `NginxIngressController`
+kind: NginxIngressController
 metadata:
   name: nginx-ingress-controller
 # spec:
