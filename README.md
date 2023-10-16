@@ -18,7 +18,7 @@ metadata:
 ```
 
 In `spec`, all values of the [upstream Helm chart](https://github.com/kubernetes/ingress-nginx/tree/main/charts/ingress-nginx) are allowed. Caveats:
-- the component operator does not perform any validation, it just passes the provided spec to the helm chart
+- the component operator does not perform any validation, it just passes the provided spec as values to the helm chart
 - the supported/allowed spec format might change, when the included upstream chart changes
 - deploying multiple `NginxIngressController` resources may or may not work, depending on the supplied values, i.e. it may fail if the configuration leads to deployment of clashing singleton resources such as custom resource definitions, webhook definitions, ...
 
