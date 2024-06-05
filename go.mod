@@ -1,6 +1,6 @@
 module github.com/sap/nginx-ingress-controller-cop
 
-go 1.22.3
+go 1.22.4
 
 require (
 	github.com/pkg/errors v0.9.1
@@ -9,7 +9,7 @@ require (
 	k8s.io/apimachinery v0.30.1
 	k8s.io/client-go v0.30.1
 	k8s.io/kube-aggregator v0.30.1
-	sigs.k8s.io/controller-runtime v0.18.3
+	sigs.k8s.io/controller-runtime v0.18.4
 )
 
 require (
