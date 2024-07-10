@@ -156,6 +156,8 @@ github.com/sap/component-operator-runtime v0.3.30 h1:1NThojyVf+DfF9GvAA8DnZkH6Pr
 github.com/sap/component-operator-runtime v0.3.30/go.mod h1:juI/3+urv0KtFpnN5+mpcxO1A4R86fTR4FHQZ+mnWzk=
 github.com/sap/component-operator-runtime v0.3.31 h1:riK/sHHJ7PmMUgzsRILWYW3HVRImv93XS9Pa3DykA/A=
 github.com/sap/component-operator-runtime v0.3.31/go.mod h1:oGcIAMmc0YCcUGn9pGSp0WvUhdL2XMtC3W1wXhfsfFw=
+github.com/sap/component-operator-runtime v0.3.32 h1:V7zuyLoNeZYytpY45GtdmzdW8YmGonDH+gcKU3k/tZk=
+github.com/sap/component-operator-runtime v0.3.32/go.mod h1:nvtWaSpVyb+2d+AWhHPjyr187/yrt9ssVH7DxMyGkrU=
 github.com/sap/go-generics v0.2.4 h1:ptpYEQ9/42rGVn8m21mq/1KrlxEUvWHdPazrJtNVVF0=
 github.com/sap/go-generics v0.2.4/go.mod h1:TtoBdtBmR4Xv+eMN+WAvq+XPkifDgdupsHum+jUcw9Y=
 github.com/sap/go-generics v0.2.5 h1:d/RzPpxqmnCdT7gIOO6ekFKnd+Vcse6U0lopoLr1uPU=
@@ -380,6 +382,8 @@ sigs.k8s.io/cli-utils v0.36.0 h1:k7GM6LmIMydtvM6Ad91XuqKk0QEVL9bVbaiX1uvWIrA=
 sigs.k8s.io/cli-utils v0.36.0/go.mod h1:uCFC3BPXB3xHFQyKkWUlTrncVDCKzbdDfqZqRTCrk24=
 sigs.k8s.io/cli-utils v0.37.1 h1:fXDqZybdbSEJSB+skCyineramGLcetywSjg5+7FMJ2Y=
 sigs.k8s.io/cli-utils v0.37.1/go.mod h1:RRmEL3XFSVWhe26iFaiygFoWO10t8W0Jg75XRcUCTOY=
+sigs.k8s.io/cli-utils v0.37.2 h1:GOfKw5RV2HDQZDJlru5KkfLO1tbxqMoyn1IYUxqBpNg=
+sigs.k8s.io/cli-utils v0.37.2/go.mod h1:V+IZZr4UoGj7gMJXklWBg6t5xbdThFBcpj4MrZuCYco=
 sigs.k8s.io/controller-runtime v0.17.2 h1:FwHwD1CTUemg0pW2otk7/U5/i5m2ymzvOXdbeGOUvw0=
 sigs.k8s.io/controller-runtime v0.17.2/go.mod h1:+MngTvIQQQhfXtwfdGw/UOQ/aIaqsYywfCINOtwMO/s=
 sigs.k8s.io/controller-runtime v0.17.3 h1:65QmN7r3FWgTxDMz9fvGnO1kbf2nu+acg9p2R9oYYYk=
