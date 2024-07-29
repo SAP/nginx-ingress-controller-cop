@@ -4,7 +4,7 @@ go 1.22.5
 
 require (
 	github.com/pkg/errors v0.9.1
-	github.com/sap/component-operator-runtime v0.3.32
+	github.com/sap/component-operator-runtime v0.3.33
 	k8s.io/apiextensions-apiserver v0.30.3
 	k8s.io/apimachinery v0.30.3
 	k8s.io/client-go v0.30.3
