@@ -195,6 +195,8 @@ github.com/sap/component-operator-runtime v0.3.55 h1:uHHR8u3rVXcx3jQIGwwl75fMqgY
 github.com/sap/component-operator-runtime v0.3.55/go.mod h1:Cp8L8V5KlMKLK8kR+cjhU/5AYymE8kQOwDeoG7ddQTE=
 github.com/sap/component-operator-runtime v0.3.57 h1:+krty/ou+0k4qsq3G6KXmjmQEEwVRJCOkMCGEjj7UGE=
 github.com/sap/component-operator-runtime v0.3.57/go.mod h1:surYAJLbxmvvJY1/tM60xmjhjLrWYTDB5IWgc6TdQLw=
+github.com/sap/component-operator-runtime v0.3.58 h1:sVIY3aOiFNZivKs3k6Q8LoDrcQd+m1H9+FAJaqTL/1w=
+github.com/sap/component-operator-runtime v0.3.58/go.mod h1:ofE29vHBRuFOl2o2yx9NxdM27m9YtN5iL6UpW7xh318=
 github.com/sap/go-generics v0.2.13 h1:rSED7M+S7aw/9AomJq7omjgZtwvoixHsfVbOiCWs4cM=
 github.com/sap/go-generics v0.2.13/go.mod h1:G6v+AnJtKlUGB/ATd+zdUcosvBdUSyrHg7/kn5UKgx8=
 github.com/sap/go-generics v0.2.18 h1:vkfXvxG9KICMxZw2PoLQE78tvSCrY0Qemrclg2MVniY=
@@ -470,5 +472,7 @@ sigs.k8s.io/structured-merge-diff/v4 v4.4.1 h1:150L+0vs/8DA78h1u02ooW1/fFq/Lwr+s
 sigs.k8s.io/structured-merge-diff/v4 v4.4.1/go.mod h1:N8hJocpFajUSSeSJ9bOZ77VzejKZaXsTtZo4/u7Io08=
 sigs.k8s.io/structured-merge-diff/v4 v4.4.3 h1:sCP7Vv3xx/CWIuTPVN38lUPx0uw0lcLfzaiDa8Ja01A=
 sigs.k8s.io/structured-merge-diff/v4 v4.4.3/go.mod h1:N8f93tFZh9U6vpxwRArLiikrE5/2tiu1w1AGfACIGE4=
+sigs.k8s.io/structured-merge-diff/v4 v4.5.0 h1:nbCitCK2hfnhyiKo6uf2HxUPTCodY6Qaf85SbDIaMBk=
+sigs.k8s.io/structured-merge-diff/v4 v4.5.0/go.mod h1:N8f93tFZh9U6vpxwRArLiikrE5/2tiu1w1AGfACIGE4=
 sigs.k8s.io/yaml v1.4.0 h1:Mk1wCc2gy/F0THH0TAp1QYyJNzRm2KCLy3o5ASXVI5E=
 sigs.k8s.io/yaml v1.4.0/go.mod h1:Ejl7/uTz7PSA4eKMyQCUTnhZYNmLIl+5c2lQPGR2BPY=
