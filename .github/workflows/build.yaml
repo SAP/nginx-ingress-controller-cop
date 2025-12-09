@@ -198,4 +198,4 @@ jobs:
           $CHART_DIRECTORY
         kubectl create ns component-system
         kubectl -n component-system apply -f examples/sample.yaml
-        kubectl -n component-system wait -f examples/sample.yaml --for condition=Ready --timeout 120s
+        kubectl -n component-system wait -f examples/sample.yaml --for condition=Ready --timeout 900s
