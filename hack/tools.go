@@ -2,7 +2,7 @@
 // +build tools
 
 /*
-SPDX-FileCopyrightText: 2024 SAP SE or an SAP affiliate company and nginx-ingress-controller-cop contributors
+SPDX-FileCopyrightText: 2026 SAP SE or an SAP affiliate company and nginx-ingress-controller-cop contributors
 SPDX-License-Identifier: Apache-2.0
 */
 
